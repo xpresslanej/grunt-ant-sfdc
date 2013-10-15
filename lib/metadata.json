@@ -326,7 +326,4 @@
   },
   "connectedApp": {
     "xmlType": "ConnectedApp",
-    "folder": "connectedapp",
-    "allowStar": false
-  }
-}
+    "folder": "connectedApps"
