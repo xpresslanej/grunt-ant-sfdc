@@ -324,7 +324,7 @@
     "folder": "workflows",
     "allowStar": false
   },
-  "connectedApp": {
+  "connectedapp": {
     "xmlType": "ConnectedApp",
     "folder": "connectedApps",
     "allowStar": false
