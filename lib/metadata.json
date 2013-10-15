@@ -323,5 +323,10 @@
     "xmlType": "WorkflowTask",
     "folder": "workflows",
     "allowStar": false
+  },
+  "connectedApp": {
+    "xmlType": "ConnectedApp",
+    "folder": "connectedapp",
+    "allowStar": false
   }
 }
